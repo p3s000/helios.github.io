@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Rigatoni</title>
+		<title>Helios by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -21,9 +21,9 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<h1><a href="index.html" id="logo">Rigatoni</a></h1>
+								<h1><a href="index.html" id="logo">Helios</a></h1>
 								<hr />
-								<p>Where all your pasta dreams come true</p>
+								<p>Another fine freebie by HTML5 UP</p>
 							</header>
 							<footer>
 								<a href="#banner" class="button circled scrolly">Start</a>
@@ -35,11 +35,11 @@
 							<ul>
 								<li><a href="index.html">Home</a></li>
 								<li>
-									<a href="#">Menu</a>
+									<a href="#">Dropdown</a>
 									<ul>
-										<li><a href="#">Appetizers</a></li>
-										<li><a href="#">Salads</a></li>
-										<li><a href="#">Entrees</a></li>
+										<li><a href="#">Lorem ipsum dolor</a></li>
+										<li><a href="#">Magna phasellus</a></li>
+										<li><a href="#">Etiam dolore nisl</a></li>
 										<li>
 											<a href="#">And a submenu &hellip;</a>
 											<ul>
